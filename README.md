@@ -1,7 +1,7 @@
 Numerous Ninjas
 ==========
 
-![Numerous Ninjas Logo](./Assets/Publication/logo.png)
+![Numerous Ninjas Logo](./Publication/logo.png)
 
 **Numerous Ninjas** (*codename: Sycophant*) is a beta stage, endless sidescrolling 2D mobile game written by Adam Anderson and David Pokora, using the Unity Engine.
 
@@ -10,8 +10,8 @@ Summary
 -----
 Customize and play as a school of ninjas with the ability to rotate and walk along any axis you desire, overcoming obstacles through as many chambers as possible. Avoid hot lava, machines/objects that may crush you, weapons that fire projectiles at you, lasers which are activated by your orientation, among various other obstacles. Beware of slower movement in bodies of water, while taking advantage of their lowered gravity benefits and ability to swim upward.  Collect powerups to help you progress through chambers or revive ninjas, but watch out for powerups which may impede your ability to progress easily.
 
-![Numerous Ninjas Gameplay Screenshot](./Assets/Publication/gameplay_0.png)
-![Numerous Ninjas Gameplay Screenshot](./Assets/Publication/gameplay_1.png)
+![Numerous Ninjas Gameplay Screenshot](./Publication/gameplay_0.png)
+![Numerous Ninjas Gameplay Screenshot](./Publication/gameplay_1.png)
 
 Requirements
 -----
